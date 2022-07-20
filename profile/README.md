@@ -1,6 +1,6 @@
 ## What is (to expect from) CannaParts?
 
-- ***At least one guy, really sorry and sad to can't set a serious focus on this project before ~ June 2023.***
+- ***At least one guy, really sorry and sad to can't set a serious focus on this project before ~ January ~~June~~ 2023.***
 
 - **Free and full access to the core and sources of doing cannabis as an illegal hobby for some decades:**
     - [Resource-saving knowledge](https://github.com/CannaParts/LetsGrowSmart). The probably most effective, but also most unknown hack is already: [here](https://github.com/CannaParts/LetsGrowSmart/blob/main/FastVegaFlowerLowPower.md).
