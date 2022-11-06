@@ -19,6 +19,9 @@
 - ***CannaParts*** might also become a brand and company for solid standard solutions and unique consulting qualities.  
 *(I own the most important CannaParts.xyz domains since a long time)*  
 
+<br>
+
+- This <a rel="me" href="https://nrw.social/@CannaParts">Mastodon-Account</a> has to substitute my twitter-activities soon...
 
 <!--
 
